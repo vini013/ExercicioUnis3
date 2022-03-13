@@ -1,0 +1,3 @@
+# ExercicioUnis3
+Um restaurante estava com um problema na hora de entregar os pedidos conforme a ordem de chegada.
+Resolvemos criar uma lista em ordem de chegada e o pedido só poderá ser retirado nessa ordem...
